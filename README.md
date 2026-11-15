@@ -104,7 +104,7 @@ Team Win Percentage = DIVIDE([Team Wins], [Team Games])
 
 ## 5. Project structure
 
-The planned GitHub repository structure is:
+The GitHub repository has this structure:
 
 ```text
 nhl-historical-analytics-powerbi/
@@ -122,9 +122,13 @@ The `.pbix` file contains the Power BI report and its data model. The screenshot
 
 ### Report preview
 
-After the screenshots have been uploaded, you can open them here:
+The four pages of the Power BI report are shown below. Click a screenshot to see the full image.
 
-[Home](screenshots/01-home.png) · [NHL Overview](screenshots/02-nhl-overview.png) · [Player Explorer](screenshots/03-player-explorer.png) · [Team Explorer](screenshots/04-team-explorer.png)
+| Home | NHL Overview |
+| --- | --- |
+| [![Home page](screenshots/01-home.png)](screenshots/01-home.png) | [![NHL Overview page](screenshots/02-nhl-overview.png)](screenshots/02-nhl-overview.png) |
+| Player Explorer | Team Explorer |
+| [![Player Explorer page](screenshots/03-player-explorer.png)](screenshots/03-player-explorer.png) | [![Team Explorer page](screenshots/04-team-explorer.png)](screenshots/04-team-explorer.png) |
 
 ## 6. How to open the project
 
